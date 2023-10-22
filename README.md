@@ -48,12 +48,12 @@ This virtual experience program consists of 3 tasks:
 
 
 ## Table of contents
-- [Problem Statement]
-- [Data Preparation]
-- [Data Modeling]
-- [Data Visualization]
-- [Analysis and Insights]
-- [Shareable Link]
+- [Problem Statement](https://github.com/smarkie/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/README.md#problem-statement)
+- [Data Preparation](https://github.com/calmk/PWC-PowerBI-Virtual-Case-Experience/tree/main/Task%202:%20Call%20Center%20Dashboard#Data-Preparation)
+- [Data Modeling](https://github.com/smarkie/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/tree/main#data-modeling)
+- [Data Visualization](https://github.com/smarkie/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/README.md#data-visualization)
+- [Analysis and Insights](https://github.com/smarkie/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/README.md#analysis-and-insights)
+- [Shareable Link](https://github.com/smarkie/Microsoft-Power-BI-PWC-PowerBI-Virtual-Case-Experience/blob/main/README.md#shareable-link)
 
 
 # Problem Statement
